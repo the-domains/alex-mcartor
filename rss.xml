@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[Alex McArtor]]></title>
         <description><![CDATA[Alex McArtor]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alex-mcartor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 05:49:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 06:15:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alex-mcartor/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined50b39a7a-202b-4c6a-a52d-6cf380af5b1b/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28fd3690-1008-48f4-be88-cc6e9ee893ae.jpg">]]></description>
+            <link>https://thegrid.ai/alex-mcartor/3c4abb62-9a14-4f17-8a30-6064261807e6/index.html</link>
+            <guid isPermaLink="false">3c4abb62-9a14-4f17-8a30-6064261807e6</guid>
+            <pubDate>Sat, 05 Mar 2016 06:12:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Yay! I made it to The Grid! Let's see what this thing can do!</p>]]></description>
+            <link>https://thegrid.ai/alex-mcartor/50b39a7a-202b-4c6a-a52d-6cf380af5b1b/index.html</link>
             <guid isPermaLink="false">50b39a7a-202b-4c6a-a52d-6cf380af5b1b</guid>
             <pubDate>Sat, 05 Mar 2016 05:49:20 GMT</pubDate>
         </item>
