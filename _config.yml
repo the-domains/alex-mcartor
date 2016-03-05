@@ -1,0 +1,14 @@
+layout_spectrum: 0.2937701
+color:
+  saturation: 0.9172798
+  lightness: 0.7601253
+  brandStrength: 0.4226638
+  brandColors:
+    - '#E8E1C6'
+    - '#303142'
+    - '#B3AB91'
+    - '#4C6D9A'
+    - '#FFBD80'
+  rhythmicContrast: 0.2125664
+typography_spectrum: 0.01503247
+name: Alex McArtor
